@@ -1,0 +1,5 @@
+{  "code-runner.executorMap": { // 套件 Code Runner 的設定
+// 執行 python 檔案時要用 python3 (-u => unbuffered)
+"python": "python3 -u",
+}
+}
